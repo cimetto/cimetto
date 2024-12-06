@@ -1,13 +1,18 @@
-- 👋 Hello, I'm Carlos Henrique
-- 👀 I'm interested in becoming a developer
-- 🌱 I'm currently learning to program in JAVA with OOP
+<h2 align="left">Hi 👋! My name is Carlos Henrique, and I'm an aspiring programmer from Brazil.</h2>
 
-I'm looking for people who can help me on my journey.
+###
 
-=======================================================
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cimetto&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cimetto&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="150" alt="languages graph"  />
+</div>
 
-- 👋 Olá, sou Carlos Henrique
-- 👀 Estou interessado em me tornar um desenvolvedor
-- 🌱 Atualmente estou aprendendo a programar em JAVA com POO
+###
 
-Procuro pessoas que possam me ajudar em minha jornada.
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+</div>
+
+###
